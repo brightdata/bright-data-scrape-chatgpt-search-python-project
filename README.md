@@ -1,6 +1,6 @@
 # Bright Data ChatGPT Search Scraper (Python)
 
-<a href="https://githubbox.com/luminati-io/bright-data-scrape-chatgpt-search-python-project?file=index.py" target="_blank">Open in CodeSandbox</a>, sign in with GitHub, then fork the repository to begin making changes.
+<a href="https://githubbox.com/brightdata/bright-data-scrape-chatgpt-search-python-project?file=index.py" target="_blank">Open in CodeSandbox</a>, sign in with GitHub, then fork the repository to begin making changes.
 
 This project provides a simple Python boilerplate for scraping ChatGPT AI search results using the Bright Data Web Scraper API.
 
