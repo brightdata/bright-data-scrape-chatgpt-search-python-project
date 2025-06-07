@@ -9,6 +9,7 @@ This project provides a simple Python boilerplate for scraping ChatGPT AI search
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [Demo](#demo)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -30,6 +31,12 @@ This repository demonstrates how to use the Bright Data Scraper API to trigger a
 - Download and save results as JSON
 - Colored console output for better user experience
 - Support for single, batch, and custom searches
+
+---
+
+## Demo
+
+https://github.com/user-attachments/assets/5fe827aa-b672-4b57-b284-cc285ae40c2e
 
 ---
 
